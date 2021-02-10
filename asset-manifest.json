@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gitpit/static/css/main.d6857ca7.chunk.css",
+    "main.js": "/gitpit/static/js/main.29fb47cc.chunk.js",
+    "main.js.map": "/gitpit/static/js/main.29fb47cc.chunk.js.map",
+    "runtime-main.js": "/gitpit/static/js/runtime-main.eed27251.js",
+    "runtime-main.js.map": "/gitpit/static/js/runtime-main.eed27251.js.map",
+    "static/css/2.31461e4f.chunk.css": "/gitpit/static/css/2.31461e4f.chunk.css",
+    "static/js/2.5825d21c.chunk.js": "/gitpit/static/js/2.5825d21c.chunk.js",
+    "static/js/2.5825d21c.chunk.js.map": "/gitpit/static/js/2.5825d21c.chunk.js.map",
+    "static/js/3.b8700a96.chunk.js": "/gitpit/static/js/3.b8700a96.chunk.js",
+    "static/js/3.b8700a96.chunk.js.map": "/gitpit/static/js/3.b8700a96.chunk.js.map",
+    "index.html": "/gitpit/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/gitpit/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.d6857ca7.chunk.css.map": "/gitpit/static/css/main.d6857ca7.chunk.css.map",
+    "static/js/2.5825d21c.chunk.js.LICENSE.txt": "/gitpit/static/js/2.5825d21c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gitpit/static/media/SEGA.8a619f32.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eed27251.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.5825d21c.chunk.js",
+    "static/css/main.d6857ca7.chunk.css",
+    "static/js/main.29fb47cc.chunk.js"
+  ]
+}
